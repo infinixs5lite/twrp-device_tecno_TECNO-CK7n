@@ -1,1 +1,1 @@
-git clone https://github.com/kelvinchinedu1220/twrp-device_transsion_mt6789-common.git -b fox_12.1 device/transsion/mt6789-common
+git clone https://github.com/infinixs5lite/twrp-device_transsion_mt6789-common.git -b fox_12.1 device/transsion/mt6789-common
